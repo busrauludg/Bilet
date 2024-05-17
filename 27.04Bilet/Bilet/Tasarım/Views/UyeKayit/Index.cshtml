@@ -1,0 +1,93 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@* nereden nereye kodları *@
+
+@section Heads{
+<div class="d-flex justify-content-start align-items-center" style="height: 20vh; background-color:#f4acb7">
+    <div class="container" style="align-center">
+        <div class="row">
+            <!-- Nerden -->
+            <div class="col-md-4">
+                <div class="form-group">
+                    <label for="nerden">Nerden:</label>
+                    <select class="form-control" id="nerden">
+                        <option>Ankara</option>
+                        <option>İstanbul</option>
+                        <option>İzmir</option>
+                        <!-- Diğer seçenekler buraya eklenebilir -->
+                    </select>
+                </div>
+            </div>
+            <!-- Nereye -->
+            <div class="col-md-6">
+                <div class="form-group">
+                    <label for="nereye">Nereye:</label>
+                    <select class="form-control" id="nereye">
+                        <option>İstanbul</option>
+                        <option>Ankara</option>
+                        <option>İzmir</option>
+                        <!-- Diğer seçenekler buraya eklenebilir -->
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+                <input type="text" id="datepicker" class="form-control" placeholder="Tarih Seçiniz" />
+                </br>
+                <button>Otobüs Ara</button> @* bu butona tıklayınca seferler gelicek *@
+            </div>
+        </div>
+    </div>
+</div>
+<br />
+    </br>
+<div class="container" style="background-color:#ffe5d9">
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        <div class="col">
+            <div class="card" style="height:30rem;">
+                <img src="./Resimler/Uçak.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Popüler Uçuşlar</h5>
+                    <p class="card-text">Popüler şehirleri öğrenerek sizde popüler yerelri görebilirsiniz.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card" style="height:30rem;">
+                <img src="./Resimler/Feribot.jpeg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Feribot</h5>
+                    <p class="card-text">Yosun ve deniz kokularının huzurunda seyehatınızı gerçekleştirebilirsiniz.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card" style="height:30rem;">
+                <img src="./Resimler/Otobuüs.jpeg" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">Otobüs</h5>
+                    <p class="card-text">Buna bişey bulamadım.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+}
+    <!-- JavaScript -->
+    <script>
+        // Datepicker'ı etkinleştirme
+        $(document).ready(function () {
+            $('#datepicker').datepicker();
+        });
+    </script>
+
+   
+
+  

@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|c:\\users\\b\u00FC\u015Fra\\desktop\\27.04bilet\\bilet\\tasar\u0131m\\models\\biletbilgilerii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|solutionrelative:tasar\u0131m\\models\\biletbilgilerii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|c:\\users\\b\u00FC\u015Fra\\desktop\\27.04bilet\\bilet\\tasar\u0131m\\models\\biletcontext1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|solutionrelative:tasar\u0131m\\models\\biletcontext1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|c:\\users\\b\u00FC\u015Fra\\desktop\\27.04bilet\\bilet\\tasar\u0131m\\models\\koltukbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|solutionrelative:tasar\u0131m\\models\\koltukbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|c:\\users\\b\u00FC\u015Fra\\desktop\\27.04bilet\\bilet\\tasar\u0131m\\models\\uyebilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|solutionrelative:tasar\u0131m\\models\\uyebilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|c:\\users\\b\u00FC\u015Fra\\desktop\\27.04bilet\\bilet\\tasar\u0131m\\models\\yolcubilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|solutionrelative:tasar\u0131m\\models\\yolcubilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|c:\\users\\b\u00FC\u015Fra\\desktop\\27.04bilet\\bilet\\tasar\u0131m\\models\\seferbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|solutionrelative:tasar\u0131m\\models\\seferbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|c:\\users\\b\u00FC\u015Fra\\desktop\\27.04bilet\\bilet\\tasar\u0131m\\models\\sehirbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|solutionrelative:tasar\u0131m\\models\\sehirbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|c:\\users\\b\u00FC\u015Fra\\desktop\\27.04bilet\\bilet\\tasar\u0131m\\models\\otobusbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|solutionrelative:tasar\u0131m\\models\\otobusbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|c:\\users\\b\u00FC\u015Fra\\desktop\\27.04bilet\\bilet\\tasar\u0131m\\models\\firmabilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|solutionrelative:tasar\u0131m\\models\\firmabilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|c:\\users\\b\u00FC\u015Fra\\desktop\\27.04bilet\\bilet\\tasar\u0131m\\models\\guzergahbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17ADC125-996A-4E93-9B47-869932B37CB2}|Tasar\u0131m\\Tasarim.csproj|solutionrelative:tasar\u0131m\\models\\guzergahbilgileri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SehirBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\SehirBilgileri.cs",
+              "RelativeDocumentMoniker": "Tasar\u0131m\\Models\\SehirBilgileri.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\SehirBilgileri.cs",
+              "RelativeToolTip": "Tasar\u0131m\\Models\\SehirBilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:13:58.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeferBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\SeferBilgileri.cs",
+              "RelativeDocumentMoniker": "Tasar\u0131m\\Models\\SeferBilgileri.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\SeferBilgileri.cs",
+              "RelativeToolTip": "Tasar\u0131m\\Models\\SeferBilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:07:50.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BiletContext1.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\BiletContext1.cs",
+              "RelativeDocumentMoniker": "Tasar\u0131m\\Models\\BiletContext1.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\BiletContext1.cs",
+              "RelativeToolTip": "Tasar\u0131m\\Models\\BiletContext1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:38:43.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BiletBilgilerii.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\BiletBilgilerii.cs",
+              "RelativeDocumentMoniker": "Tasar\u0131m\\Models\\BiletBilgilerii.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\BiletBilgilerii.cs",
+              "RelativeToolTip": "Tasar\u0131m\\Models\\BiletBilgilerii.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:40:39.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KoltukBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\KoltukBilgileri.cs",
+              "RelativeDocumentMoniker": "Tasar\u0131m\\Models\\KoltukBilgileri.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\KoltukBilgileri.cs",
+              "RelativeToolTip": "Tasar\u0131m\\Models\\KoltukBilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:48:13.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UyeBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\UyeBilgileri.cs",
+              "RelativeDocumentMoniker": "Tasar\u0131m\\Models\\UyeBilgileri.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\UyeBilgileri.cs",
+              "RelativeToolTip": "Tasar\u0131m\\Models\\UyeBilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:16:13.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YolcuBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\YolcuBilgileri.cs",
+              "RelativeDocumentMoniker": "Tasar\u0131m\\Models\\YolcuBilgileri.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\YolcuBilgileri.cs",
+              "RelativeToolTip": "Tasar\u0131m\\Models\\YolcuBilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:21:59.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OtobusBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\OtobusBilgileri.cs",
+              "RelativeDocumentMoniker": "Tasar\u0131m\\Models\\OtobusBilgileri.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\OtobusBilgileri.cs",
+              "RelativeToolTip": "Tasar\u0131m\\Models\\OtobusBilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T06:03:56.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FirmaBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\FirmaBilgileri.cs",
+              "RelativeDocumentMoniker": "Tasar\u0131m\\Models\\FirmaBilgileri.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\FirmaBilgileri.cs",
+              "RelativeToolTip": "Tasar\u0131m\\Models\\FirmaBilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:38:33.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GuzergahBilgileri.cs",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\GuzergahBilgileri.cs",
+              "RelativeDocumentMoniker": "Tasar\u0131m\\Models\\GuzergahBilgileri.cs",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Desktop\\27.04Bilet\\Bilet\\Tasar\u0131m\\Models\\GuzergahBilgileri.cs",
+              "RelativeToolTip": "Tasar\u0131m\\Models\\GuzergahBilgileri.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:43:38.937Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

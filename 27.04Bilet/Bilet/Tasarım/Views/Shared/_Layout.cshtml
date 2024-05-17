@@ -1,0 +1,122 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Tasarım</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Tasarım.styles.css" asp-append-version="true" />
+    @*  benim eklediğim linkler *@
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/js/bootstrap-datepicker.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/css/bootstrap-datepicker.min.css" />
+
+    <style>
+        #navbar
+        {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        #ad
+        {
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color:plum;
+        }
+
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light" id="navbar" style="background-color:#ffcad4">@* bneim eklediğim yer *@
+            <div class="container-fluid">
+                <a class="navbar-brand" id="ad"asp-area="" asp-controller="Home" asp-action="Index">Büş Bilet</a>
+               @*  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button> *@
+                
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-end">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item"> @* butayı ayarla  *@
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Hakkımızda</a> @* Burası ana sayfaya geri döndürüyo *@
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Yardım</a>
+                        </li>
+                        <li class ="nav-item">
+                            <a class="nav-link text-dark"asp-area="" asp-controller="UyeKayit" asp-action="Giris">Üye Girişi</a>@* burayı göster erhan abiye *@
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    </br>
+   @*  Bunlar kullanılmayacak kardlar *@
+@*      <div class="container d-flex justify-content-start align-items-center" style="height: 30vh; background-color:wheat">
+        <div class="container">
+            <div class="row">
+                   <div class="col-md-4">
+                    <div class="card" style="width:20rem;">
+                       <div class="card-body">
+                            <h5 class="card-title">Nereden</h5>
+                            <input type="search" placeholder="İl seçiniz" aria-label="Search">
+                              </input>
+                       </div>
+                       </div>
+                  </div>
+            </div>
+         </div>
+        <div class="container">
+            <div class="row justify-content-start">
+                <div class="col-md-4">
+                    <div class="card" style="width:20rem; ">
+                        <div class="card-body">
+                            <h5 class="card-title">Nereye</h5>
+                            <input type="search" placeholder="İl seçiniz" aria-label="Search"> </input>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div> *@
+    
+      @await RenderSectionAsync("Heads",required:false) @* bu çalışmıyo bunu çalıştır *@
+    
+   
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+    
+    
+   
+
+    @* <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - Tasarım - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer> *@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @* @await RenderSectionAsync("Scripts", required: false) *@
+
+    <!-- JavaScript -->
+    <script>
+        // Datepicker'ı etkinleştirme
+        $(document).ready(function () {
+            $('#datepicker').datepicker();
+        });
+    </script>
+
+    @*  benim eklediğim linkler *@
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/js/bootstrap-datepicker.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.9.0/css/bootstrap-datepicker.min.css" />
+
+</body>
+</html>
+    
