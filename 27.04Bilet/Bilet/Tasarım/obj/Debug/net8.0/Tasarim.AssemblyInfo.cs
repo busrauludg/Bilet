@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tasarim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a4fac04072d3900ee8d38e6e75a88ff714e657e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tasarim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tasarim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

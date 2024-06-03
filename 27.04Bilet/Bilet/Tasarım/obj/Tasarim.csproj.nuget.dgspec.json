@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Büşra\\Desktop\\27.04Bilet\\Bilet\\Tasarım\\Tasarim.csproj": {}
+    "C:\\Users\\Büşra\\Documents\\GitHub\\Bilet\\27.04Bilet\\Bilet\\Tasarım\\Tasarim.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Büşra\\Desktop\\27.04Bilet\\Bilet\\Tasarım\\Tasarim.csproj": {
+    "C:\\Users\\Büşra\\Documents\\GitHub\\Bilet\\27.04Bilet\\Bilet\\Tasarım\\Tasarim.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Büşra\\Desktop\\27.04Bilet\\Bilet\\Tasarım\\Tasarim.csproj",
+        "projectUniqueName": "C:\\Users\\Büşra\\Documents\\GitHub\\Bilet\\27.04Bilet\\Bilet\\Tasarım\\Tasarim.csproj",
         "projectName": "Tasarim",
-        "projectPath": "C:\\Users\\Büşra\\Desktop\\27.04Bilet\\Bilet\\Tasarım\\Tasarim.csproj",
+        "projectPath": "C:\\Users\\Büşra\\Documents\\GitHub\\Bilet\\27.04Bilet\\Bilet\\Tasarım\\Tasarim.csproj",
         "packagesPath": "C:\\Users\\Büşra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Büşra\\Desktop\\27.04Bilet\\Bilet\\Tasarım\\obj\\",
+        "outputPath": "C:\\Users\\Büşra\\Documents\\GitHub\\Bilet\\27.04Bilet\\Bilet\\Tasarım\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Büşra\\AppData\\Roaming\\NuGet\\NuGet.Config",
